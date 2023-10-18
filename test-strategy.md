@@ -71,6 +71,17 @@ Hasta este punto, todo esta casi perfecto. Solo falta un pequeño detalle: los c
 
 # Funcionamiento del juego arreglado
 Ya el juego funciona como debe de ser, tal y como se muestran en la siguientes imágenes:
+**Si el usuario ingresa un número incorrecto:**
+![Captura13](./imagenes/Captura13.png)
+
+**Si el usuario ingresa un número que no es entero:**
+![Captura14](./imagenes/Captura14.png)
+
+**Si el usuario gana el juego y adivina:**
+![Captura15](./imagenes/Captura15.png)
+
+**Si el usuario se queda sin intentos y pierde:**
+![Captura16](./imagenes/Captura16.png)
 
 
 
